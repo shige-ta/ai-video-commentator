@@ -5,7 +5,7 @@
  ・ FFmpeg
  ・ Voicevox
 ```
-git clone https://github.com/yourusername/ai-video-commentator.git
+git clone https://github.com/shige-ta/ai-video-commentator.git
 cd ai-video-commentator
 ```
 Voicevoxをインストールして起動します。
