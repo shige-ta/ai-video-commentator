@@ -10,7 +10,9 @@ git clone https://github.com/yourusername/ai-video-commentator.git
 cd ai-video-commentator
 ```
 Voicevoxをインストールして起動します。
-Voicevoxの公式ウェブサイト（https://voicevox.hiroshiba.jp/）からお使いのOSに対応したVoicevoxエンジンをダウンロードしてインストールします。
+Voicevoxの公式ウェブサイト（https://voicevox.hiroshiba.jp/）
+からお使いのOSに対応したVoicevoxエンジンをダウンロードしてインストールします。
+
 Voicevoxエンジンを起動します。デフォルトでは、```localhost:50021```で動作します。
 
 使用方法
