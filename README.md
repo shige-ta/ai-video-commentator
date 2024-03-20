@@ -1,9 +1,9 @@
 # ai-video-commentator
 
 必要な環境
-Python 3.11.8
-FFmpeg
-Voicevox
+## Python 3.11.8
+## FFmpeg
+## Voicevox
 
 ```
 git clone https://github.com/yourusername/ai-video-commentator.git
