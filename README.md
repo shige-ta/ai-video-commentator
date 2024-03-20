@@ -4,7 +4,6 @@
  ・ Python 3.11.8
  ・ FFmpeg
  ・ Voicevox
-
 ```
 git clone https://github.com/yourusername/ai-video-commentator.git
 cd ai-video-commentator
